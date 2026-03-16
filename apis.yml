@@ -1,12 +1,22 @@
+aid: gantt-charts
 name: Gantt Charts
 description: Gantt Charts is a specialized technology or methodology in the gantt
   domain that addresses specific technical or business requirements. It provides targeted
   capabilities that help practitioners and organizations solve problems and improve
   outcomes in their area of focus.
-url: null
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/gantt-charts/refs/heads/main/apis.yml
+specificationVersion: '0.19'
 tags:
-- Gantt Charts
-created: '2025'
-modified: '2025'
+  - Gantt Charts
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

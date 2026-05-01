@@ -1,22 +1,27 @@
 # Gantt Charts (gantt-charts)
-Gantt Charts is a specialized technology or methodology in the gantt domain that addresses specific technical or business requirements. It provides targeted capabilities that help practitioners and organizations solve problems and improve outcomes in their area of focus.
+
+Gantt charts are a project-management visualization that depicts tasks, timelines, dependencies, and progress against a calendar. This repository tracks APIs, libraries, and SaaS providers that produce, render, or expose Gantt-chart data for project planning and scheduling use cases.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/gantt-charts/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Gantt Charts
+- Gantt Charts, Project Management, Scheduling, Visualization
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
+
+## APIs
+
+No APIs have been documented yet. Contributions welcome.
 
 ## Maintainers
 

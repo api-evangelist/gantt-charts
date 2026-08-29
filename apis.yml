@@ -6,6 +6,17 @@ description: >-
   tracks APIs, libraries, and SaaS providers that produce, render, or expose
   Gantt-chart data for project planning and scheduling use cases.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
